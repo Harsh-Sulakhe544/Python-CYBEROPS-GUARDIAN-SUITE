@@ -1,0 +1,6 @@
+2023-11-28 11:50:07 - ERROR - [91mERROR[0m - An error occurred during credit card validation: can only concatenate list (not "str") to list
+2023-11-28 11:51:50 - ERROR - [91mERROR[0m - An error occurred during credit card validation: can only concatenate list (not "str") to list
+2023-11-28 11:53:07 - INFO - [91mINFO[0m - Credit card validation passed: 848515******1514
+2023-11-28 12:02:04 - INFO - [91mINFO[0m - Credit card validation passed: 848515******1514
+2023-11-29 18:44:12 - WARNING - [91mWARNING[0m - Credit card validation failed: 146220******6226
+2023-12-02 11:31:49 - WARNING - [91mWARNING[0m - Credit card validation failed: 146220******6226

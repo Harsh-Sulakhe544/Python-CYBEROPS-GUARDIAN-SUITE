@@ -1,0 +1,7 @@
+2023-12-03 00:31:20,024 - INFO - ToDoApp.py:41 - wrapper - Operation: add_task 
+2023-12-03 00:31:25,473 - INFO - ToDoApp.py:41 - wrapper - Operation: add_task 
+2023-12-03 00:31:28,392 - INFO - ToDoApp.py:41 - wrapper - Operation: mark_completed 
+2023-12-03 00:31:33,367 - INFO - ToDoApp.py:41 - wrapper - Operation: mark_completed 
+2023-12-03 11:56:24,726 - ERROR - CerditCardValidator.py:45 - validate_credit_card - Invalid input. Please enter a 16-digit numeric credit card number. 
+2023-12-03 12:18:04,458 - INFO - ToDoApp.py:42 - wrapper - Operation: add_task 
+2024-01-06 18:18:30,452 - INFO - ToDoApp.py:43 - wrapper - Operation: add_task 
